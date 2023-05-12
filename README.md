@@ -59,9 +59,10 @@
 2. 
 
 **收藏项目** 
+
 **个人组件** 
+
 **shell脚本** 
-1. 示例程序
 
 ## 其他
 - [HTML格式排版](https://github.com/TitanRGB/TitanRGB/blob/main/README.md?plain=1)
