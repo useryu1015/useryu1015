@@ -10,7 +10,7 @@
 ## Git仓库目录
 ### 产品研发
 - [信联科技-变电站协议转换-null]()
-- [信联科技-乌东德变电站](https://github.com/useryu1015/wdd_proc)
+- [信联科技-乌东德水电站](https://github.com/useryu1015/wdd_proc)
 - [永奉科技-跟随机器人-null]()
 - [永奉科技-UWB坐标定位上位机-null]()
 
@@ -37,9 +37,9 @@
 
 
 ## 项目简介
-- [信联科技-乌东德变电站](https://github.com/useryu1015/wdd_proc)	
+- [信联科技-乌东德水电站](https://github.com/useryu1015/wdd_proc)	
 ``` c
-独立开发项目
+简介： 水电站数据采集装置（初版代码&工程目录）
 ```	
 
 
