@@ -11,7 +11,7 @@
 5. 共享
 
 ## Git仓库目录
-### 产品研发    （无源码）
+### 产品研发
 - [信联科技-变电站协议转换-null]()
 - [信联科技-乌东德变电站](https://github.com/useryu1015/wdd_proc)
 - [永奉科技-跟随机器人-null]()
@@ -164,11 +164,6 @@ ca证书、签名密钥、
 > 贾帅（表哥/指路人）	
 > 简介：芯片设计行业工作十年，985	
 > 技术栈：嵌入式全栈	
-
-### 产品
-1. 廉价PLC：  单片机替代小厂PLC的方案。包括研发，产品升级，客户跟进与维护。
-2. 
-
 
 <!---
 useryu1015/useryu1015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
