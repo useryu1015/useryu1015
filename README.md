@@ -10,9 +10,7 @@
 ## Git仓库目录
 ### 产品研发
 - [信联科技-变电站协议转换-TBD]()
->>> 电网多协议数据采集装置，包括CMS、MQTT、SENSOR、MODBUS、LORA、SSL等
 - [信联科技-乌东德水电站](https://github.com/useryu1015/wdd_proc)
-> 乌东德水电站数据采集装置
 - [永奉科技-跟随机器人-TBD]()
 - [永奉科技-UWB坐标定位上位机-TBD]()
 
