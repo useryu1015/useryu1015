@@ -1,14 +1,11 @@
-- [HTML格式排版](https://github.com/TitanRGB/TitanRGB/blob/main/README.md?plain=1)
-- [style](./image/%E6%8E%92%E7%89%88%E8%AE%BE%E8%AE%A1.png)
 - 只知其然,而不知其所以然。 站在设计者的角度思考
 
 ## 总则 
 仓库目的：
 1. 便于项目回溯与参考，新业务开发时ctrl cv
 2. 开发环境移植、备份与版本管理
-3. 技术栈的复习与巩固
+3. 技术栈复习与巩固
 4. 个人简介
-5. 共享
 
 ## Git仓库目录
 ### 产品研发
@@ -40,16 +37,12 @@
 
 
 ## 项目简介
-- []()	
+- [信联科技-乌东德变电站](https://github.com/useryu1015/wdd_proc)	
 ``` c
-/* null */
+独立开发项目
 ```	
 
-### XKD
-每年4月/10月自学考试，提前两个月报名
-- []()	
-
-## 架构
+## 设计框架
 ### MCU
 1. 轮询系统
 2. 前后台中断响应
@@ -71,18 +64,6 @@
 
 
 
-
-## 查漏补缺
-### GDB
-1. 熟练GBD调试工具， 堆栈溢出定位分析、断点调试、
-   
-### 加密算法
-ssl、md5、  
-公钥、私钥  
-加密芯片    
-ca证书、签名密钥、  
-
-
 ## 待办
 
 ### project store（
@@ -100,52 +81,13 @@ ca证书、签名密钥、
 2. 
 
 **收藏项目**
-
-
-### module store（组件仓库 管理
-
-**开源组件**
-1) 协议栈 
-1. libmodbus协议    
-    * modbus调试工具    
-    * modbus示例程序、业务程序  
-    * modbus拓展功能码  
-    * 开源库[libmodus](https://github.com/stephane/libmodbus)   
-2. [x] libwebsocks  
-    * demo程序
-3. mosmqtt
-4. -http
-5. -ssl
-6. 
-   
-7) 文件流控  
-8. json操作   
-    * 库文件   
-9. [ ] xml操作   
-    * 打包库文件
-    * 
-10. csv操作    
-
-
 **个人组件**	
-0) C语言，数据类型存储容器的实现    
-> 说明：    
-> 特点：动态堆栈、静态缓存区、协议数据类型、    
-> 灵感：opendds，sqllite，modbus寄存器，    
-> 参考：Linux文件管理方式，inode号，
-> 
-
-1) 字符串操作
-    * hex2string
-    * [C语言如何实现动态扩容的string？](https://mp.weixin.qq.com/s?__biz=MzI0ODU0NDI1Mg==&mid=2247551393&idx=2&sn=481b30342792708efec05ff28f3502f6&chksm=e99d6732deeaee248fa7148a47b5a7d1d084dcee3503d85a27fb979d57fb6a4c60af97d50b97&scene=126&sessionid=1680154868&subscene=227&key=cb8c6d71956639314f5cc2d7d802860ce0d209c1e72ff206fcf8c8a2a72f1548a6e7b035b4820484791a477296504045092b3fbbcc48b89c0bb9b14889e64c5c11921530230ecb86d10f275bf5b67ec9cac433e3235475b77965d20d890adec191d57881a745296937a2cf07c1862789efcb587e90864aa44db04b681b2cdb2e&ascene=0&uin=MTQ3OTkzMDkyNw%3D%3D&devicetype=Windows+11+x64&version=6309001c&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQWR%2FQjeSmfxVBLlZyr5aGDhLgAQIE97dBBAEAAAAAANi6KejT5oMAAAAOpnltbLcz9gKNyK89dVj0kkivX3SRQsbLTuboQtFMgafg6iNg%2BAifRhOIFrx%2FOYI%2F%2BWmKSYHe5hmmbmhcPl1FoE%2FV1kTHR7FaU%2F0OioE0NhoZaHW9j%2BYtHiDTXtu5zEX9Iyl9%2BYzuINPPku1HOCXDw77VkRYi1mKDQZ5V91JyGcKWt7MIdZJYyh%2B%2BK38SsQPP%2FUvP3%2BspDftwWCi5%2B2H5JBAY4RAm3KVUsWCx1klqJehsvqBq0BzujrUZ%2BrsfCGAk8d%2FHMvMzIH%2BK&acctmode=0&pass_ticket=MrztVPyiGIAmd0pOYHgvHhahMuiavWh4sMEsjXK6BRDBR%2Bq6%2BMp3aj3NT2ou%2BKDLGo%2BnuN6qWfXenVMhtislBA%3D%3D&wx_header=1&fontgear=2)
-    * 
-    
-2) log调试日志
-
-3) 数据队列
-
 **shell脚本**
 1. 示例程序
+
+## 其他
+- [HTML格式排版](https://github.com/TitanRGB/TitanRGB/blob/main/README.md?plain=1)
+- [style](./image/%E6%8E%92%E7%89%88%E8%AE%BE%E8%AE%A1.png)
 
 ## 商业合作
 ### 技术团队--核心成员
