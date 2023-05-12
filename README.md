@@ -19,8 +19,10 @@
 - [modbus接口封装-demo程序]()
 - [lws库-xxx](https://github.com/useryu1015/libwebsockets-example-tx-rx)
 
+### Linux开发组件
+- [LinuxC_Module](https://github.com/useryu1015/module_C)
 
-### 毕业设计-单片机
+### 毕业设计
 - [堆垛机器人](https://github.com/useryu1015/...)
 - [红外警报]()
 - [环境监测]()
