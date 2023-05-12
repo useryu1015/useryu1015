@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @useryu1015
-- 👀 I’m interested in ...
-
-- to be continue;
 - [HTML格式排版](https://github.com/TitanRGB/TitanRGB/blob/main/README.md?plain=1)
 - [style](./image/%E6%8E%92%E7%89%88%E8%AE%BE%E8%AE%A1.png)
 - 只知其然,而不知其所以然。 站在设计者的角度思考
@@ -17,6 +13,7 @@
 ## Git仓库目录
 ### 产品研发    （无源码）
 - [信联科技-变电站协议转换]()
+- [信联科技-乌东德变电站]()
 - [永奉科技-跟随机器人]()
 - [永奉科技-UWB坐标定位上位机]()
 
@@ -67,7 +64,7 @@
     * 特点：
     * xx
 3. TCP/UDP
-4. RPC 的客户端-服务端架构：        ？？？？ 
+4. RPC 的客户端-服务端架构：
     * XML-RPC、JSON-RPC
 5. 基于 P2P 的客户端-服务端架构
     * 户端之间相互通信，不依赖中心化的服务端，如 BitTorrent 等。
@@ -117,15 +114,17 @@ ca证书、签名密钥、
 2. [x] libwebsocks  
     * demo程序
 3. mosmqtt
-4. http
+4. -http
+5. -ssl
+6. 
    
-5) 文件流控  
-6. json操作   
+7) 文件流控  
+8. json操作   
     * 库文件   
-7. [ ] xml操作   
+9. [ ] xml操作   
     * 打包库文件
     * 
-8. csv操作    
+10. csv操作    
 
 
 **个人组件**	
