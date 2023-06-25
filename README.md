@@ -1,4 +1,4 @@
-- 只知其然,而不知其所以然。 站在设计者的角度思考
+- 只知其然，而不知其所以然。 站在设计者的角度思考
 
 ## 总则 
 仓库目的：
@@ -70,11 +70,10 @@
 - [HTML格式排版](https://github.com/TitanRGB/TitanRGB/blob/main/README.md?plain=1)
 - [style](./image/%E6%8E%92%E7%89%88%E8%AE%BE%E8%AE%A1.png)
 
-## 商业合作
-### 技术团队--核心成员
+## XXXX
 > ZXY	
 > 简介：	
-> 技术栈：C、ARM&Linux、MCU&RTOS、shell、物联网协议、项目框架、PLC&SCL、	
+> 技术栈：C、ARM&Linux、MCU&RTOS、shell、物联网协议、项目设计
 
 > 梁光彬（大学同学）	
 > 简介：两年工作经验，负责公司产品MCU开发、QT开发和PCBlayout	
@@ -82,7 +81,7 @@
 
 > 张玉宁（中学同学）	
 > 简介：研二在读，主研人工智能方向	
-> 技术栈：C/C++、python、大数据算法、Java（3D打印：不会，买一台给他研究）	
+> 技术栈：C/C++、python、大数据算法（3D打印）	
 
 > 贾帅（表哥/指路人）	
 > 简介：芯片设计行业工作十年，985	
