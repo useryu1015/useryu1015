@@ -9,7 +9,7 @@
 
 ## Git仓库目录
 ### 产品研发
-- [信联科技-变电站协议转换-TBD]()
+- [信联科技-变电站协议转换](https://github.com/useryu1015/sink_proc)
 - [信联科技-乌东德水电站](https://github.com/useryu1015/wdd_proc)
 - [永奉科技-跟随机器人-TBD]()
 - [永奉科技-UWB坐标定位上位机-TBD]()
@@ -23,8 +23,8 @@
 - [LinuxC_Module](https://github.com/useryu1015/module_C)
 
 ### 毕业设计
-- [堆垛机器人](https://github.com/useryu1015/...)
-- [红外警报]()
+- [堆垛机器人](https://github.com/useryu1015/college_item/tree/main/2.robot)
+- [红外警报](https://github.com/useryu1015/college_item/tree/main/1.alarm_sys)
 - [环境监测]()
 - [C51-温控设备]()
 - [QT-串口助手]()
