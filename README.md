@@ -16,8 +16,8 @@
 
 
 ### 开源库-接口程序设计
-- [modbus接口封装-demo程序]()
-- [lws库-xxx](https://github.com/useryu1015/libwebsockets-example-tx-rx)
+- [libmodbus-demo程序](https://github.com/useryu1015/libmodbus-example-context)
+- [libwebsocket库-交叉编译与测试程序](https://github.com/useryu1015/libwebsockets-example-tx-rx)
 
 ### Linux开发组件
 - [LinuxC_Module](https://github.com/useryu1015/module_C)
@@ -25,13 +25,10 @@
 ### 毕业设计
 - [堆垛机器人](https://github.com/useryu1015/college_item/tree/main/2.robot)
 - [红外警报](https://github.com/useryu1015/college_item/tree/main/1.alarm_sys)
-- [环境监测]()
-- [C51-温控设备]()
-- [QT-串口助手]()
-
-- [编码电子锁]()
-- [遥控窗帘]()
-- [天猫精灵家庭智能]()
+- [环境监测-TBD]()
+- [C51-温控设备-TBD]()
+- [QT-串口助手-TBD]()
+- [天猫精灵家庭智能-TBD]()
 
 ### 其他
 - [云笔记](https://github.com/useryu1015/cloud_note)
