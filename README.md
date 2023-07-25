@@ -21,6 +21,11 @@
 ### Linux开发组件
 - [LinuxC_Module](https://github.com/useryu1015/module_C)
 
+### 上位机
+- [LVGL-环境数据监控](https://github.com/useryu1015/lvgl_demo/tree/main/lcd_wdd)
+- [QT-电量计价器-TODO]()
+- [QT-串口数据控制]()
+
 ### 毕业设计
 - [红外警报](https://github.com/useryu1015/college_item/tree/main/1.alarm_sys)
 - [堆垛机器人-TODO](https://github.com/useryu1015/college_item/tree/main/2.robot)
