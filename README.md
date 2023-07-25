@@ -12,7 +12,7 @@
 - [信联科技-变电站协议转换](https://github.com/useryu1015/sink_proc)
 - [信联科技-乌东德水电站](https://github.com/useryu1015/wdd_proc)
 - [永奉科技-跟随机器人-TODO]()
-- [永奉科技-UWB坐标定位上位机-TODO]()
+- [永奉科技-UWB定位上位机-TODO]()
 
 ### 开源库-接口程序设计
 - [libmodbus-demo程序](https://github.com/useryu1015/libmodbus-example-context)
