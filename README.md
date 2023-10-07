@@ -1,17 +1,6 @@
 - 只知其然，而不知其所以然。 站在设计者的角度思考
 
-## 总则 
-仓库目的：
-1. 便于项目回溯与参考，新业务开发时ctrl cv
-2. 开发环境移植、备份与版本管理
-3. 技术栈复习与巩固
-4. 个人简介
-
 ## Git仓库目录
-### 产品研发
-- [信联科技-变电站协议转换](https://github.com/useryu1015/sink_proc)
-- [信联科技-乌东德水电站](https://github.com/useryu1015/wdd_proc)
-
 ### Linux开发组件
 - [LinuxC_Module](https://github.com/useryu1015/module_C)
 
