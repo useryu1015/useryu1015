@@ -19,6 +19,23 @@
 <!---
 useryu1015/useryu1015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+
+TODO：
+  嵌入式智能家居
+  客厅电动投影布， 电视柜背景墙（置物墙），电动窗帘
+
+技术栈：
+  MQTT服务器，交互协议
+  LVGL界面UI
+  天猫精灵交互接口
+  windos交互控件
+  3D打印
+  硬件基础
+  wifi模块
+  蓝牙模块
+  水电走线
+  
 --->
 
 
