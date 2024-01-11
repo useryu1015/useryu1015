@@ -8,11 +8,7 @@
 4. 个人简介
 
 ## Git仓库目录
-### 产品研发
-- [信联科技-变电站协议转换](https://github.com/useryu1015/sink_proc)
-- [信联科技-乌东德水电站](https://github.com/useryu1015/wdd_proc)
-- [永奉科技-跟随机器人-TODO]()
-- [永奉科技-UWB定位上位机-TODO]()
+
 
 ### 开源库-接口程序设计
 - [libmodbus-demo程序](https://github.com/useryu1015/libmodbus-example-context)
@@ -37,10 +33,13 @@
 - [云笔记-private](https://github.com/useryu1015/cloud_note)
 - [自学考试-private](https://github.com/useryu1015/XKD)
 
+
+<!-- private：私有项目 -->
 <!---
-useryu1015/useryu1015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+### 产品研发
+- [信联科技-变电站协议转换](https://github.com/useryu1015/sink_proc)
+- [信联科技-乌东德水电站](https://github.com/useryu1015/wdd_proc)
+- [永奉科技-跟随机器人-TODO]()
+- [永奉科技-UWB定位上位机-TODO]()
+
 --->
-
-
-
